@@ -1,0 +1,8 @@
+
+
+*.DS_Store
+Java-projects.iml
+.idea out
+.out
+.idea
+out
