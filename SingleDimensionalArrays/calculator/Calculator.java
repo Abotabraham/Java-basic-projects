@@ -1,4 +1,4 @@
-package calculator;
+package SingleDimensionalArrays.calculator;
 
 import java.util.Scanner;
 
